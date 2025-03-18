@@ -1,0 +1,34 @@
+/* Algemene opmaak */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F4E8FF; /* Heel licht lila */
+    color: #4B0082; /* Donkerpaars */
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Stijl voor de content */
+.container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    border: 5px solid #CCCCFF; /* Periwinkle border */
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Koppen */
+h1, h2 {
+    color: #4B0082;
+}
+
+/* Doodles */
+.doodles {
+    margin-top: 20px;
+}
+.doodles img {
+    width: 80px;
+    margin: 5px;
+}
